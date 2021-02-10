@@ -1,8 +1,8 @@
-### my name is simplecode01
+### Welcome to simplecode01 GitHub
 
 
 #### About me :
-hi my name is Putra, I come from Indonesia, I am an Android developer, and a discord bot developer.
+Hi my name is Putra, I come from Indonesia, I am an Android developer, and a discord bot developer.
 
 - 🔭 I’m currently working on Some company 
 - 🌱 I’m currently learning Python
