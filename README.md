@@ -5,7 +5,7 @@ hi my name is Putra, I come from Indonesia, I am an Android developer, and a dis
 Skills: node.js/Java/PHP/MySQL
 
 - 🔭 I’m currently working on Some company 
-- 🌱 I’m currently learning Node.js, PHP 
+- 🌱 I’m currently learning node.js, PHP 
 - 👯 I’m looking to collaborate on Java Project 
 - 💬 Ask me about Anythin 
 - 😄 Pronouns: He or Him 
