@@ -9,7 +9,7 @@ h1 align="center">Hi welcone to simplecode01 Github</h1>
 
 - 🤝 I’m looking for help with **-**
 
-- 📝 I regularly write articles on [https://simplecode01.wordpress.com/](https://simplecode01.wordpress.com/)
+- 📝 I regularly write articles on [https://simplecode01.wordpress.com/](simplecode01)
 
 - 💬 Ask me about **Anything**
 
