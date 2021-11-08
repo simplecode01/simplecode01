@@ -1,7 +1,7 @@
 <h1 align="center">Hi welcome to simplecode01 Github</h1>
 <h3 align="center">Hi my name is Putra, I come from Indonesia, I am an Android developer, and a discord bot developer.</h3>
 
-- 🔭 I’m currently working on **QuranMuslim**
+- 🔭 I’m currently working on **QuranMuslim Apps**
 
 - 🌱 I’m currently learning **Kotlin**
 
