@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **-**
 
-- 📝 I regularly write articles on [https://simplecode01.wordpress.com/](simplecode01)
+- 📝 I regularly write articles on [simplecode01](https://simplecode01.wordpress.com/)
 
 - 💬 Ask me about **Anything**
 
