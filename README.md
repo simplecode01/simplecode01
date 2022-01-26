@@ -20,7 +20,7 @@
 <h3 align="left">List my apps</h3>
 <p align="left">
  
- <a href="https://play.google.com/store/apps/details?id=com.simplecode01.quranmuslim">QuranMuslim</a>
+ - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.quranmuslim">QuranMuslim</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
