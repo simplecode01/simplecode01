@@ -22,7 +22,9 @@
  
  - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.quranmuslim">QuranMuslim</a>
  
- - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.hadistfull">HadistFull</a>
+ - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.hadistfull">Kumpulan Hadist</a>
+ 
+ - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.indonesianhospital">Indonesian Hospital</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
