@@ -1,6 +1,6 @@
 <h1 align="center">Hi welcome to simplecode01 Github</h1>
 <h3 align="center">Hi my name is Putra, I come from Indonesia, I am an Android developer, and a discord bot developer.</h3>
-
+<script src="https://kit.fontawesome.com/27c968be8a.js" crossorigin="anonymous"></script>
 - 🔭 I’m currently working on **HadistFull**
 
 - 🌱 I’m currently learning **Kotlin**
@@ -25,6 +25,10 @@
  - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.hadistfull">Kumpulan Hadist</a>
  
  - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.indonesianhospital">Indonesian Hospital</a>
+
+ <a href="https://github.com/simplecode01">
+  <button  class="btn1"><i class="fa-brands fa-github"></i> My GitHub</button>
+ </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
