@@ -1,9 +1,9 @@
 <h1 align="center">Hi welcome to simplecode01 Github</h1>
 <h3 align="center">Hi my name is Putra, I come from Indonesia, I am an Android developer, and a discord bot developer.</h3>
 
-- 🔭 I’m currently working on **HadistFull**
+- 🔭 I’m currently working on **Tel-U Want CLothing**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 👯 I’m looking to collaborate on **Creating A Good Apps Togerther**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **putravi01@gmail.com, or to My Discord ZeeXy#4914**
 
-- ⚡ Fun fact **Im a full stack developer**
+- ⚡ Fun fact **Im a full stack developer for Android**
 
 <h3 align="left">List my apps</h3>
 <p align="left">
