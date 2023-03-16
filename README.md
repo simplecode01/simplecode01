@@ -26,8 +26,6 @@
  
  - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.indonesianhospital">Indonesian Hospital</a>
 
- - <a href="https://github.com/simplecode01"></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/simplecode01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="simplecode01" height="30" width="40" /></a>
