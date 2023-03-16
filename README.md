@@ -26,9 +26,7 @@
  
  - <a href="https://play.google.com/store/apps/details?id=com.simplecode01.indonesianhospital">Indonesian Hospital</a>
 
- <a href="https://github.com/simplecode01">
-  <button  class="btn1"><i class="fa-brands fa-github"></i> My GitHub</button>
- </a>
+ - <a href="https://github.com/simplecode01"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
